@@ -1,48 +1,48 @@
 {
     "profile": {
-        "name": "Your Name",
-        "bio": "Digital creator & content curator. Welcome to my online space where I share my passions and connect with you!",
+        "name": "RFSTOREPBG",
+        "bio": "Digital creator & Seller Topup. Welcome to my online space where I share my passions and connect with you!",
         "image": "YOUR_PROFILE_IMAGE_URL_HERE"
     },
     "links": [
         {
             "title": "Instagram",
-            "url": "https://instagram.com/yourusername",
+            "url": "https://instagram.com/rfstorepbg",
             "icon": "fab fa-instagram"
         },
         {
             "title": "Twitter",
-            "url": "https://twitter.com/yourusername",
+            "url": "https://twitter.com/",
             "icon": "fab fa-twitter"
         },
         {
             "title": "YouTube",
-            "url": "https://youtube.com/yourchannel",
+            "url": "https://youtube.com/rfstorepbg",
             "icon": "fab fa-youtube"
         },
         {
             "title": "Website",
-            "url": "https://yourwebsite.com",
+            "url": "https://whatsapp.com/channel/0029VadvGTIKwqSVyFHGC50N",
             "icon": "fas fa-globe"
         },
         {
             "title": "TikTok",
-            "url": "https://tiktok.com/@yourusername",
+            "url": "https://tiktok.com/@rfstorepbg",
             "icon": "fab fa-tiktok"
         },
         {
             "title": "Pinterest",
-            "url": "https://pinterest.com/yourusername",
+            "url": "https://pinterest.com/",
             "icon": "fab fa-pinterest"
         },
         {
             "title": "GitHub",
-            "url": "https://github.com/yourusername",
+            "url": "https://github.com/",
             "icon": "fab fa-github"
         },
         {
             "title": "LinkedIn",
-            "url": "https://linkedin.com/in/yourusername",
+            "url": "https://linkedin.com/in/",
             "icon": "fab fa-linkedin"
         }
     ],
