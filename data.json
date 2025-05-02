@@ -47,10 +47,10 @@
         }
     ],
     "music": {
-        "title": "Your Song Title",
-        "artist": "Artist Name",
-        "albumArt": "YOUR_ALBUM_ART_URL_HERE",
-        "audioFile": "YOUR_AUDIO_FILE_URL.mp3", 
+        "title": "Masa Lalu",
+        "artist": "Chaeroel",
+        "albumArt": "https://i.ytimg.com/vi/sVTBz2FFbp8/hq720.jpg",
+        "audioFile": "https://w4.tuberipper.com/download/0?_k=1525053234b92c9683f9f784a36a6e64", 
         "duration": 180,
         "timeSync": [
             { "time": 0, "text": "Intro music..." },
