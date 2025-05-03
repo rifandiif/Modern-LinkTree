@@ -19,6 +19,16 @@
             "title": "TikTok",
             "url": "https://tiktok.com/@rfstorepbg",
             "icon": "fab fa-tiktok"
+        },
+        {
+            "title": "Jajan",
+            "url": "https://wa.me/6285174179397",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "DC Van",
+            "url": "https://google.com",
+            "icon": "fab fa-discord"
         }
     ],
     "music": {
