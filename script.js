@@ -1,8 +1,8 @@
 // Menemukan script.js yang diperbaiki untuk menampilkan lirik
 let userData = null;
 let currentLyricIndex = -1;
-let songDuration = 60;
-let isPlaying = false;
+let songDuration = 270;
+let isPlaying = true;
 let isFirstInteraction = true;
 
 const profilePic = document.getElementById('profilePic');
