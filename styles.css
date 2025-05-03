@@ -2,7 +2,7 @@
     --bg-color: #000000;
     --text-color: #000000;
     --link-bg: #ffffff;
-    --link-hover: #f0f0f0;
+    --link-hover: #ffffff;
     --link-shadow: rgba(0, 0, 0, 0.1);
     --music-bg: rgba(255, 255, 255, 0.9);
     --primary-color: #4a86e8;
@@ -94,7 +94,7 @@ body {
     background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
     -webkit-background-clip: text;
     background-clip: text;
-    color: transparent;
+    color: #ffffff;
     transition: all var(--transition-speed) ease;
 }
 
