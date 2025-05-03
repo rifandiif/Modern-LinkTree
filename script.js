@@ -1,7 +1,7 @@
 // Menemukan script.js yang diperbaiki untuk menampilkan lirik
 let userData = null;
 let currentLyricIndex = -1;
-let songDuration = 270;
+let songDuration = 167;
 let isPlaying = true;
 let isFirstInteraction = true;
 
