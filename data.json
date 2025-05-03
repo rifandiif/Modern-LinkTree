@@ -41,21 +41,7 @@
         "artist": "Chaeroel",
         "albumArt": "https://i.ytimg.com/vi/sVTBz2FFbp8/hq720.jpg",
         "audioFile": "https://w4.tuberipper.com/download/0?_k=39adf1606adb207cf65214e541b0a496",
-        "duration": 247,
-        "timeSync": [
-            { "time": 0, "text": "Intro music..." },
-            { "time": 5, "text": "First verse line 1\nBaris terjemahan" },
-            { "time": 10, "text": "First verse line 2\nBaris terjemahan" },
-            { "time": 15, "text": "First verse line 3\nBaris terjemahan" },
-            { "time": 20, "text": "First verse line 4\nBaris terjemahan" },
-            { "time": 25, "text": "Pre-chorus line 1\nBaris terjemahan" },
-            { "time": 30, "text": "Pre-chorus line 2\nBaris terjemahan" },
-            { "time": 35, "text": "Chorus line 1\nBaris terjemahan" },
-            { "time": 40, "text": "Chorus line 2\nBaris terjemahan" },
-            { "time": 45, "text": "Chorus line 3\nBaris terjemahan" },
-            { "time": 50, "text": "Chorus line 4\nBaris terjemahan" },
-            { "time": 55, "text": "Post-chorus\nBaris terjemahan" },
-            { "time": 60, "text": "Second verse line 1\nBaris terjemahan" }
-        ]
+        "duration": 247
+        
     }
 }
