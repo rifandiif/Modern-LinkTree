@@ -2,7 +2,7 @@
 let userData = null;
 let currentLyricIndex = -1;
 let songDuration = 167;
-let isPlaying = true;
+let isPlaying = false;
 let isFirstInteraction = true;
 
 const profilePic = document.getElementById('profilePic');
